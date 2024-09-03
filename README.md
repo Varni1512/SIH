@@ -2,18 +2,6 @@
 
 This project is a front-end clone of the RailMadad website, built using HTML, CSS, and JavaScript. It replicates the layout and design of the original site and includes basic functionality.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 The RailMadad Clone project aims to replicate the user interface of the RailMadad website. This project is intended for educational purposes and to demonstrate skills in web development using HTML, CSS, and JavaScript.
