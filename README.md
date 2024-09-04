@@ -18,6 +18,16 @@ This repository contains the source code for the RailMadad web interface, an onl
 - **Font Awesome**: For incorporating icons across the interface.
 - **Google Fonts (Roboto)**: For consistent and readable typography.
 
+## Installation
+
+To run this project locally:
+
+- Clone the repository:
+       git clone https://github.com/yourusername/railmadad.git
+- Navigate to the project directory:
+       cd railmadad
+- Open index.html in your browser to view the interface.
+
 ## Usage
 
 - **Logging In/Signing Up**: Users can log in or sign up using the buttons in the navigation bar.
@@ -27,6 +37,3 @@ This repository contains the source code for the RailMadad web interface, an onl
 
 ## Contact
 For any questions or suggestions, please feel free to contact us at varnikumar1512@gmail.com.
-- **HTML5**: Markup language for structuring the web pages.
-- **CSS3**: Styling the layout, including flexbox and grid for responsive design.
-- **JavaScript**: Adding basic interactivity and form handling.
